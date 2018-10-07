@@ -4,3 +4,8 @@ shopping list
 3 mang 
 4 apple 
 5 mango
+6 kit
+7 food 
+8 py
+9 hg 
+10 mk
